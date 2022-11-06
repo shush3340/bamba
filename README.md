@@ -1,1 +1,2 @@
 # bamba
+Simple Website
